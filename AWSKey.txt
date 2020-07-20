@@ -1,4 +1,1 @@
-Access Key: AKIATDKWC67MVXAAY5HW
-Secret Key: Ej5gq76+gN38tQwZ1/BdEp46B6mDv1x3m3uYl6k4 
-
- The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details. The Canonical String for this request should have been 'GET /stream-transcription-websocket X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATDKWC67MVXAAY5HW%2F20200720%2Fus-east-1%2Ftranscribe%2Faws4_request&X-Amz-Date=20200720T083319Z&X-Amz-Expires=15&X-Amz-SignedHeaders=host&language-code=en-US&media-encoding=pcm&sample-rate=44100 host:transcribestreaming.us-east-1.amazonaws.com:8443 host e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' The String-to-Sign should have been 'AWS4-HMAC-SHA256 20200720T083319Z 20200720/us-east-1/transcribe/aws4_request 7fe717aa04dc22e41ac48f657145c462083c0a23deceba8adaa4c9225027de72'
+dummy
